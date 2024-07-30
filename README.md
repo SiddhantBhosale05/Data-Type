@@ -22,10 +22,10 @@ Example: float height = 2.8;
 Example: char initial = 'S';
 
 ##### 5. Boolean: Represents true or false values.
-Example: bool isStudent = true;
+Example: bool = true;
 
 #### 6. String Types: String: Represents a sequence of characters.
-Example: string name = "Alice";
+Example: string name = "Max";
 
 ## Algorithm 
 
