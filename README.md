@@ -10,16 +10,16 @@ Data types are fundamental to programming, providing a way to define the type of
 Primitive data types are the most basic data types provided by a programming language. These are typically built-in and are used to store simple values.
 
 ##### 1. Integers (int): Whole numbers without a fractional part.
-Example: int age = 25;
+Example: int age = 19;
 
 ##### 2. Float: Single-precision floating-point number.
 
 ##### 3. Double: Double-precision floating-point number.
-Example: float height = 5.9;
+Example: float height = 2.8;
 
 
 ##### 4. Char: Represents a single character.
-Example: char initial = 'A';
+Example: char initial = 'S';
 
 ##### 5. Boolean: Represents true or false values.
 Example: bool isStudent = true;
