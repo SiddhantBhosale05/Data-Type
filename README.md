@@ -13,10 +13,10 @@ Primitive data types are the most basic data types provided by a programming lan
 Example: int age = 19;
 
 ##### 2. Float: Single-precision floating-point number.
+Example: flot num = 2.8
 
 ##### 3. Double: Double-precision floating-point number.
-Example: float height = 2.8;
-
+Example: float height = 2.8989;
 
 ##### 4. Char: Represents a single character.
 Example: char initial = 'S';
