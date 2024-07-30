@@ -1,6 +1,6 @@
 # Data-Type
 Experiment 2
-## AIM - 
+## AIM
 To check given data types
 
 ## Theory
