@@ -25,4 +25,4 @@ Example: char initial = 'S';
 Example: bool = true;
 
 #### 6. String Types: String: Represents a sequence of characters.
-Example: string name = "Max";
+Example: string name = "Ace";
